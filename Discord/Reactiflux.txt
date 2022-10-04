@@ -1,0 +1,24 @@
+[For Hire][REMOTE][FullTime]
+Hello, I am Oscar Solano from Peru, As I am a full stack developer, I speicialized in React, Next, GraphQL, Gatsby for 6 years of experience.
+During these days, I have developed a wide range of websites for startup companies, small businesses and individuals.
+
+as mentioning about my repsonsibility:
+- converted to typically React.js project from original project which developed by using HTML, CSS,
+JavaScript and jQuery.
+- developed and built Static Website by using React and Apollo GraphQL Library.
+- Resolved the SEO and enhanced the performance of the problem perfectly by using SSR(Server Side
+Rendering) and Web Crawler technology.
+-Used Babel module to transpile ES6, JSX and Typescript into Vanilla JavaScript and Used Webpack
+and gulp plugin to bundle, chunks of code, optimize our application.
+- hands on experience in creating custom Reusable React Components Library like table, charts,
+modal, tabs, carousel, tree, calendar and so on.
+- maintained states in the stores and dispatched the actions using Redux and used Middleware, ReduxPromise, Redux-Saga in application to retrieve data from Back end and to also perform RESTFUL
+services.
+I have good confident to solve the problem and I can finish your project perfectly, If the price is reasonable.
+If you need my help, please DM me.
+I will always wait for you.
+
+
+
+
+
